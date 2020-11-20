@@ -1,3 +1,5 @@
+package prev;
+
 import java.util.*;
 
 public class MaxSize {
